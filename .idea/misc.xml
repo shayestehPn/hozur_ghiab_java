@@ -1,0 +1,104 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_10.xml" value="0.176" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_11.xml" value="0.2" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_12.xml" value="0.176" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_13.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_14.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_2.xml" value="0.1115" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_3.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_4.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_5.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_6.xml" value="0.166" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_7.xml" value="0.111" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_8.xml" value="0.111" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/border_9.xml" value="0.111" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/custom_radio_button.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/error_dialog_shape.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/ic_group_129.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/ic_group_213.xml" value="0.166" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/ic_logo_login.xml" value="0.123" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/log_button_shape.xml" value="0.1785" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/logo_2.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/menu_1_item.xml" value="0.166" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/month_spinner.xml" value="0.164" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/rectangle.xml" value="0.166" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/square_blue.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/square_filled.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/drawable/square_red.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/change_password_dialog.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/custom_progress_dialog.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/custom_reports_spinner_item.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/custom_spinner_item.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/custom_vacation_spinner_item.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/dashboard_enter_fragment.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/dashboard_exit_fragment.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/dashboard_fragment.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/dashboard_recycle_list_item.xml" value="0.18489583333333334" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/description_dialog.xml" value="0.4" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/error_dialog_fragment.xml" value="0.11197916666666667" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/exit_dialog.xml" value="0.17395833333333333" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/list.xml" value="0.213768115942029" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/list_view_item_row.xml" value="0.4" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/login_fragment.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/menu_dashboard_item.xml" value="0.15572916666666667" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/nav_header.xml" value="0.1765625" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/recycle_list_item.xml" value="0.13958333333333334" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/reports_dialog.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/reports_fragment.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/reports_recycle_item.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/show_error_dialog.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/splash_fragment.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/splash_screen.xml" value="0.2234375" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/toolbar.xml" value="0.14270833333333333" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/vacation_fragment.xml" value="0.20989583333333334" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/vacation_recycle_list_item.xml" value="0.213768115942029" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/vacation_report_dialog.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/vacation_report_fragment.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/vacation_request_fragment.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/wage_recycle_list_item.xml" value="0.2234375" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/wage_report_dialog.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/layout/wage_report_fragment.xml" value="0.22735507246376813" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/menu/hamburger_menu.xml" value="0.264" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/menu/navigation_menu.xml" value="0.253125" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1585" />
+        <entry key="..\:/android projects/11_hozur_ghiab/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.1585" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/border_13.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/border_3.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/border_5.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/border_7.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/canceal.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/check.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/custom_radio_button.xml" value="0.2275" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/drawable/error_dialog_shape.xml" value="0.2285" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/change_password_dialog.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/custom_progress_dialog.xml" value="0.3591485507246377" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/custom_spinner_item.xml" value="0.3596014492753623" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/dashboard_fragment.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/dashboard_recycle_list_item.xml" value="0.3596014492753623" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/description_dialog.xml" value="0.3596014492753623" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/exit_dialog.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/login_fragment.xml" value="0.3596014492753623" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/nav_header.xml" value="0.3596014492753623" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/reports_dialog.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/reports_fragment.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/splash_fragment.xml" value="0.3591485507246377" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/vacation_report_dialog.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/layout/vacation_report_fragment.xml" value="0.35260416666666666" />
+        <entry key="..\:/java_projects/11_hozur_ghiab/app/src/main/res/menu/hamburger_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_280sdp"
+    android:layout_height="match_parent"
+    android:layout_marginRight="@dimen/_10sdp"
+    android:layout_marginLeft="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_100sdp"
+    android:layout_marginBottom="@dimen/_100sdp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/error_dialog_shape"
+    android:id="@+id/layout"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_30sdp"
+        android:text="یک مشکل رخ داده است :"
+        android:padding="@dimen/_5sdp"
+        android:gravity="top|center_horizontal"
+        android:fontFamily="@font/iran_sans_regular"
+        android:textColor="@color/black"
+        android:background="@drawable/border_2"
+        android:layout_gravity="center|top"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_8sdp"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/_18sdp"
+        android:id="@+id/errorMessage_text_view"
+        android:fontFamily="@font/iran_sans_regular"
+        android:textColor="@color/black"
+        />
+    <Button
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:text="تمام"
+        android:layout_gravity="center"
+        android:background="@drawable/border_8"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_18sdp"
+        android:id="@+id/ok_button"
+        android:layout_marginBottom="@dimen/_18sdp"
+        />
+</LinearLayout>

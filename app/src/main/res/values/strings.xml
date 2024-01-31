@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hozur_ghiab</string>
+    <string name="generic_server_down">generic_server_down</string>
+    <string name="no_internet">no_internet</string>
+    <string name="generic_error">generic_error</string>
+    <string name="generic_server_timeout">generic_server_timeout</string>
+    <string name="auth_failed">auth_failed</string>
+    <string name="no_network_connection">no_network_connection</string>
+    <string name="parsing_failed">parsing_failed</string>
+    <string name="description_edit_text_hint"><font size="15">لطفا گزارش کار خود را بنویسید</font></string>
+</resources>

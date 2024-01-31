@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.login"
+    android:orientation="vertical"
+    android:background="@color/new_blue"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_logo"
+        android:layout_gravity="top|center"
+        android:layout_marginTop="@dimen/_135sdp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_54sdp"
+        android:hint="نام کاربری"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="@dimen/_45sdp"
+        android:layout_marginRight="@dimen/_41sdp"
+        android:layout_marginLeft="@dimen/_41sdp"
+        android:background="@drawable/border"
+        android:id="@+id/phone_number"
+        android:textColor="@color/white"
+        android:paddingRight="@dimen/_10sdp"
+        android:paddingLeft="@dimen/_5sdp"
+        android:fontFamily="@font/iran_sans_regular"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_54sdp"
+        android:hint="رمز "
+        android:paddingRight="@dimen/_10sdp"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_41sdp"
+        android:layout_marginLeft="@dimen/_41sdp"
+        android:background="@drawable/border"
+        android:id="@+id/password"
+        android:textColor="@color/white"
+        android:inputType="textPassword"
+        android:gravity="right|center"
+        android:fontFamily="@font/iran_sans_regular"
+        android:paddingLeft="@dimen/_5sdp"
+        />
+
+        <Button
+            android:id="@+id/login_btn"
+            android:layout_width="@dimen/_116sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_gravity="left"
+            android:layout_marginLeft="@dimen/_50sdp"
+            android:paddingBottom="@dimen/_3sdp"
+            android:paddingTop="@dimen/_3sdp"
+            android:text=  "ورود"
+            android:textColor="@color/new_blue"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:textSize="@dimen/_26sdp"
+            android:background="@drawable/log_button_shape"
+            />
+
+</LinearLayout>
